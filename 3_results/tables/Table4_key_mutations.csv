@@ -1,0 +1,9 @@
+Gene,Mutation,Drug,Frequency (%),N
+rpoB,S450L,Rifampicin,62.3,339
+katG,S315T,Isoniazid,78.4,479
+gyrA,A90V,Fluoroquinolones,34.1,141
+gyrA,D94G,Fluoroquinolones,28.6,118
+embB,M306V,Ethambutol,45.3,130
+rpsL,K43R,Streptomycin,58.7,183
+rrs,A1401G,Aminoglycosides,71.9,64
+Rv0678,various,Bedaquiline/Clofazimine,55.6,15

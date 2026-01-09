@@ -1,0 +1,10 @@
+Drug,Category,Resistant (n),Rate (%),Key Mutation
+Fluoroquinolones,Second-line,413,49.1,gyrA A90V
+Amikacin,Second-line,89,10.6,rrs 1401
+Kanamycin,Second-line,112,13.3,rrs 1401
+Capreomycin,Second-line,78,9.3,rrs 1401
+Ethionamide,Second-line,156,18.5,ethA
+Bedaquiline,Reserve,12,1.4,Rv0678
+Linezolid,Reserve,8,0.9,rrl 2814
+Clofazimine,Reserve,15,1.8,Rv0678
+Delamanid,Reserve,5,0.6,ddn

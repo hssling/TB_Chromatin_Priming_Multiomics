@@ -1,0 +1,6 @@
+Drug,Resistant (n),Total,Rate (%),Common Mutations
+Rifampicin,544,842,64.6,rpoB S450L; rpoB H445Y
+Isoniazid,612,842,72.7,katG S315T; inhA C-15T
+Ethambutol,287,842,34.1,embB M306V; embB M306I
+Pyrazinamide,198,842,23.5,pncA various
+Streptomycin,312,842,37.1,rpsL K43R; rrs 514
