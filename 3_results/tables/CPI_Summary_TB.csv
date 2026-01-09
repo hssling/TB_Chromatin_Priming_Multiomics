@@ -1,0 +1,3 @@
+disease,n_cell_types,mean_CPI,sd_CPI,min_CPI,max_CPI
+TB (BAL),5,0.7881,0.015,0.7757,0.8125
+TB (PBMC),5,0.8416,0.0358,0.792,0.8899

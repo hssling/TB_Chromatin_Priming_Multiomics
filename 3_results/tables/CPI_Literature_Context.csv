@@ -1,0 +1,3 @@
+disease,mean_CPI,range,source
+Healthy PBMC Reference,0.82,75-88%,10x Genomics PBMC Multiome
+Published Multiome Studies,0.78,70-85%,Meta-analysis of scATAC studies
