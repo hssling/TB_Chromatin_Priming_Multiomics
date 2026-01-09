@@ -1,0 +1,38 @@
+{
+  "glycolysis": [
+    "SLC2A1",
+    "HK2",
+    "PFKP",
+    "PFKFB3",
+    "ALDOA",
+    "GAPDH",
+    "ENO1",
+    "PKM",
+    "LDHA"
+  ],
+  "hypoxia_hif1": [
+    "HIF1A",
+    "EGLN1",
+    "VEGFA",
+    "SLC2A1",
+    "PFKFB3"
+  ],
+  "one_carbon": [
+    "MTHFD1",
+    "SHMT1",
+    "SHMT2",
+    "MTR",
+    "MTRR",
+    "MAT2A"
+  ],
+  "tca": [
+    "CS",
+    "ACO2",
+    "IDH3A",
+    "OGDH",
+    "SUCLG1",
+    "SDHA",
+    "FH",
+    "MDH2"
+  ]
+}

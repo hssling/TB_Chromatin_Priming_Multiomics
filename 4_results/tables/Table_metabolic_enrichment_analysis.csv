@@ -1,0 +1,6 @@
+cell_type,n_sig_deg,n_primed,n_nonprimed,metabolic_primed,metabolic_nonprimed,prop_metabolic_primed,prop_metabolic_nonprimed,metabolic_OR,metabolic_pval,trained_primed,trained_nonprimed,prop_trained_primed,prop_trained_nonprimed,trained_OR,trained_pval
+Interstitial_Macrophage,2834,2208,626,11,1,0.00498188405797101,0.00159744408945687,3.12844161247666,0.482903156838668,4,0,0.00181159420289855,0,Inf,0.581821504266292
+Alveolar_Macrophage,3128,2408,720,9,2,0.0037375415282392,0.00277777777777778,1.34668163778318,1,2,0,0.000830564784053156,0,Inf,1
+Monocyte,0,0,0,0,0,,0,0,1,0,0,,0,0,1
+Dendritic_cell,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+B_cell,0,0,0,0,0,,0,0,1,0,0,,0,0,1

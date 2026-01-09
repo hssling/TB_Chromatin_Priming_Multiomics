@@ -1,0 +1,3 @@
+dataset,source,modality,accession,condition_groups,notes
+tb_scrna_primary,GEO,scRNA,TO_FILL,ActiveTB|LTBI|HC,"Download 10x matrices; harmonize metadata.csv"
+atac_reference,10x/scATAC atlas,scATAC,TO_FILL,Immune cell types,"Used for peak-gene links and motif priors"

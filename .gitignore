@@ -1,0 +1,48 @@
+# Raw data (large files)
+1_data_raw/**/*.gz
+1_data_raw/**/*.tar
+1_data_raw/**/*.mtx
+1_data_raw/**/*.h5
+1_data_raw/GSE*/**
+
+# Intermediate data
+2_data_intermediate/**/*.rds
+2_data_intermediate/**/*.h5ad
+
+# R environment
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+*.egg
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep specific files
+!1_data_raw/.gitkeep
+!2_data_intermediate/atac_reference/README_ATAC_REFERENCE.md

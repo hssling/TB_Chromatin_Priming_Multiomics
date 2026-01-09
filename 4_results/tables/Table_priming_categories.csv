@@ -1,0 +1,11 @@
+cell_type,category,n,prop
+Alveolar_Macrophage,DAR_to_DEG,4754,0.776290006531679
+Alveolar_Macrophage,DEG_only,1370,0.223709993468321
+B_cell,DAR_to_DEG,4550,0.785566298342542
+B_cell,DEG_only,1242,0.214433701657459
+Dendritic_cell,DAR_to_DEG,3739,0.812472837896567
+Dendritic_cell,DEG_only,863,0.187527162103433
+Interstitial_Macrophage,DAR_to_DEG,4628,0.775729131746564
+Interstitial_Macrophage,DEG_only,1338,0.224270868253436
+Monocyte,DAR_to_DEG,4394,0.790572148254768
+Monocyte,DEG_only,1164,0.209427851745232

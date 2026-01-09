@@ -1,0 +1,5 @@
+category,mean_accessibility,n_genes
+Trained Immunity,0.127605770543829,14
+Metabolic,0.0380400243172963,22
+Other DEG,0.0383870386225741,2996
+Background,0.123457197035984,36348

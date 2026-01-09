@@ -1,0 +1,27 @@
+project:
+  name: TB-Chromatin-Priming-Multiomics
+  version: v2
+paths:
+  raw: 1_data_raw
+  intermediate: 2_data_intermediate
+  results: 4_results
+analysis:
+  seed: 1234
+  hvgs: 3000
+  clustering_resolution: 0.6
+  deg:
+    logfc_threshold: 0.1
+    min_pct: 0.1
+    padj: 0.05
+  linkage:
+    window_bp: 50000
+modules:
+  trained_immunity:
+    gene_list_file: config/trained_immunity_genes.txt
+  metabolism:
+    gene_list_file: config/metabolic_genesets.json
+enrichment:
+  gprofiler: true
+  enrichr: true
+motifs:
+  homer: true
